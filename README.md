@@ -17,6 +17,8 @@
 | [Gemini_CLI](https://github.com/KoTeKaaa/Gemini_CLI) | Собственный CLI-сервис на базе бесплатного API Gemini |
 | [System-Monitor](https://github.com/KoTeKaaa/System-Monitor) | Графическое приложение для мониторинга системных параметров в реальном времени |
 
+| [Tail Thief](https://github.com/KoTeKaaa/FunFlow-Game) | Командная игра на Unity для геймджема FunFlow × ТПУ: вор-бобёр, ограбление музея, три уровня и физика скольжения. Моя роль — ядро игры, интеграция сцен и сборка |
+
 ## Стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
